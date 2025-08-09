@@ -258,12 +258,16 @@ body {
   margin-top: 20px;
   font-size: 0.9rem;
   color: #bdc3c7;
+  flex-wrap: wrap;
+  gap: 8px;
 }
 
 .info-item {
   background: rgba(44, 62, 80, 0.4);
   padding: 5px 10px;
   border-radius: 5px;
+  flex: 1 0 calc(50% - 8px); /* İki sütunlu düzen */
+  text-align: center;
 }
 
 .card-list {
@@ -363,6 +367,11 @@ body {
 }
 
 @media (max-width: 768px) {
+  .btn {
+    margin: 5px 0;
+    width: 100%;
+  }
+
   .tarot-card {
     flex-direction: column;
   }
@@ -376,6 +385,15 @@ body {
 
   .card-title {
     font-size: 1.5rem;
+  }
+
+  .card-img {
+    height: 100%;
+    width: auto; /* Genişlik otomatik */
+    max-width: 100%; /* Maksimum genişlik */
+    margin: 0 auto; /* Ortalama */
+    display: block;
+    object-fit: contain; /* Resmi tam sığdır */
   }
 }
 

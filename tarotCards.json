@@ -1,0 +1,1212 @@
+{
+  "tarot_deck": {
+    "major_arcana": [
+      {
+        "id": 0,
+        "name": "The Fool",
+        "tr_name": "Aptal",
+        "arcana": "major",
+        "suit": null,
+        "number": 0,
+        "keywords": {
+          "upright": ["başlangıç", "masumiyet", "spontanlık", "özgürlük"],
+          "reversed": ["dikkatsizlik", "aptalca risk", "kaos", "güvensizlik"]
+        },
+        "element": "Hava",
+        "astrology": "Uranüs",
+        "image_url": "cards/0.jpg"
+      },
+      {
+        "id": 1,
+        "name": "The Magician",
+        "tr_name": "Büyücü",
+        "arcana": "major",
+        "suit": null,
+        "number": 1,
+        "keywords": {
+          "upright": ["irade", "yaratıcılık", "beceri", "konsantrasyon"],
+          "reversed": [
+            "hile",
+            "manipülasyon",
+            "zayıf irade",
+            "yetenek eksikliği"
+          ]
+        },
+        "element": "Merkür",
+        "astrology": "Boğa",
+        "image_url": "cards/1.jpg"
+      },
+      {
+        "id": 2,
+        "name": "The High Priestess",
+        "tr_name": "Yüksek Rahibe",
+        "arcana": "major",
+        "suit": null,
+        "number": 2,
+        "keywords": {
+          "upright": ["sezgi", "gizem", "bilinçaltı", "içsel bilgelik"],
+          "reversed": [
+            "gizli gündem",
+            "tutarsızlık",
+            "sezgileri görmezden gelme"
+          ]
+        },
+        "element": "Ay",
+        "astrology": "Ay",
+        "image_url": "cards/2.jpg"
+      },
+      {
+        "id": 3,
+        "name": "The Empress",
+        "tr_name": "İmparatoriçe",
+        "arcana": "major",
+        "suit": null,
+        "number": 3,
+        "keywords": {
+          "upright": ["dişil enerji", "doğurganlık", "şefkat", "bolluk"],
+          "reversed": ["bağımlılık", "boğucu", "ihmal", "kıskançlık"]
+        },
+        "element": "Venüs",
+        "astrology": "Venüs",
+        "image_url": "cards/3.jpg"
+      },
+      {
+        "id": 4,
+        "name": "The Emperor",
+        "tr_name": "İmparator",
+        "arcana": "major",
+        "suit": null,
+        "number": 4,
+        "keywords": {
+          "upright": ["otorite", "güç", "kontrol", "stabilite"],
+          "reversed": ["despotluk", "katılık", "zorlama", "aşırı kontrol"]
+        },
+        "element": "Ateş",
+        "astrology": "Koç",
+        "image_url": "cards/4.jpg"
+      },
+      {
+        "id": 5,
+        "name": "The Hierophant",
+        "tr_name": "Din Adamı",
+        "arcana": "major",
+        "suit": null,
+        "number": 5,
+        "keywords": {
+          "upright": ["gelenek", "inanç", "spiritüel rehberlik", "kuralcılık"],
+          "reversed": [
+            "isyan",
+            "özgür düşünce",
+            "sorgulama",
+            "geleneklere karşı gelme"
+          ]
+        },
+        "element": "Toprak",
+        "astrology": "Boğa",
+        "image_url": "cards/5.jpg"
+      },
+      {
+        "id": 6,
+        "name": "The Lovers",
+        "tr_name": "Aşıklar",
+        "arcana": "major",
+        "suit": null,
+        "number": 6,
+        "keywords": {
+          "upright": ["sevgi", "uyum", "ilişkiler", "değerler", "seçim"],
+          "reversed": [
+            "dengesizlik",
+            "uyumsuzluk",
+            "yanlış seçim",
+            "kendini aldatma"
+          ]
+        },
+        "element": "Hava",
+        "astrology": "İkizler",
+        "image_url": "cards/6.jpg"
+      },
+      {
+        "id": 7,
+        "name": "The Chariot",
+        "tr_name": "Savaş Arabası",
+        "arcana": "major",
+        "suit": null,
+        "number": 7,
+        "keywords": {
+          "upright": ["kontrol", "irade", "zafer", "ilerleme"],
+          "reversed": [
+            "kontrol eksikliği",
+            "dağınıklık",
+            "direnç",
+            "agresiflik"
+          ]
+        },
+        "element": "Su",
+        "astrology": "Yengeç",
+        "image_url": "cards/7.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Strength",
+        "tr_name": "Güç",
+        "arcana": "major",
+        "suit": null,
+        "number": 8,
+        "keywords": {
+          "upright": ["cesaret", "sabır", "diyaloglar", "iç güç"],
+          "reversed": [
+            "güvensizlik",
+            "korku",
+            "kendine hakim olamama",
+            "güç kötüye kullanımı"
+          ]
+        },
+        "element": "Ateş",
+        "astrology": "Aslan",
+        "image_url": "cards/8.jpg"
+      },
+      {
+        "id": 9,
+        "name": "The Hermit",
+        "tr_name": "Ermiş",
+        "arcana": "major",
+        "suit": null,
+        "number": 9,
+        "keywords": {
+          "upright": ["içe dönüş", "tefekkür", "arama", "tecrübe bilgeliği"],
+          "reversed": ["yalnızlık", "izolasyon", "karanlık", "yolunu kaybetme"]
+        },
+        "element": "Toprak",
+        "astrology": "Başak",
+        "image_url": "cards/9.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Wheel of Fortune",
+        "tr_name": "Kader Çarkı",
+        "arcana": "major",
+        "suit": null,
+        "number": 10,
+        "keywords": {
+          "upright": ["kader", "değişim", "döngü", "şans"],
+          "reversed": [
+            "kötü şans",
+            "direnen değişim",
+            "kontrol eksikliği",
+            "ters dönüş"
+          ]
+        },
+        "element": "Ateş",
+        "astrology": "Jüpiter",
+        "image_url": "cards/10.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Justice",
+        "tr_name": "Adalet",
+        "arcana": "major",
+        "suit": null,
+        "number": 11,
+        "keywords": {
+          "upright": ["adalet", "hakikat", "dürüstlük", "hukuk"],
+          "reversed": ["adaletsizlik", "yargıda hata", "hukuk kötüye kullanımı"]
+        },
+        "element": "Hava",
+        "astrology": "Terazi",
+        "image_url": "cards/11.jpg"
+      },
+      {
+        "id": 12,
+        "name": "The Hanged Man",
+        "tr_name": "Asılı Adam",
+        "arcana": "major",
+        "suit": null,
+        "number": 12,
+        "keywords": {
+          "upright": ["fedakarlık", "bekleme", "yeni bakış açısı", "sükunet"],
+          "reversed": ["direnç", "korku", "boşa harcanan çaba"]
+        },
+        "element": "Su",
+        "astrology": "Neptün",
+        "image_url": "cards/12.jpg"
+      },
+      {
+        "id": 13,
+        "name": "Death",
+        "tr_name": "Ölüm",
+        "arcana": "major",
+        "suit": null,
+        "number": 13,
+        "keywords": {
+          "upright": ["son", "değişim", "dönüşüm", "geçiş"],
+          "reversed": ["direnç", "durgunluk", "korku", "ölümden korkma"]
+        },
+        "element": "Su",
+        "astrology": "Akrep",
+        "image_url": "cards/13.jpg"
+      },
+      {
+        "id": 14,
+        "name": "Temperance",
+        "tr_name": "Aklıselim",
+        "arcana": "major",
+        "suit": null,
+        "number": 14,
+        "keywords": {
+          "upright": ["denge", "ılımlılık", "sabır", "uyum"],
+          "reversed": ["dengesizlik", "aşırılık", "düzensizlik", "çelişki"]
+        },
+        "element": "Ateş",
+        "astrology": "Yay",
+        "image_url": "cards/14.jpg"
+      },
+      {
+        "id": 15,
+        "name": "The Devil",
+        "tr_name": "Şeytan",
+        "arcana": "major",
+        "suit": null,
+        "number": 15,
+        "keywords": {
+          "upright": ["bağlılık", "maddiyat", "tutku", "kısıtlama"],
+          "reversed": ["kurtuluş", "özgürleşme", "farkındalık"]
+        },
+        "element": "Toprak",
+        "astrology": "Oğlak",
+        "image_url": "cards/15.jpg"
+      },
+      {
+        "id": 16,
+        "name": "The Tower",
+        "tr_name": "Kule",
+        "arcana": "major",
+        "suit": null,
+        "number": 16,
+        "keywords": {
+          "upright": ["ani değişim", "yıkım", "aydınlanma", "yıkma"],
+          "reversed": ["felaketten kaçınma", "direnen değişim", "korku", "kriz"]
+        },
+        "element": "Ateş",
+        "astrology": "Mars",
+        "image_url": "cards/16.jpg"
+      },
+      {
+        "id": 17,
+        "name": "The Star",
+        "tr_name": "Yıldız",
+        "arcana": "major",
+        "suit": null,
+        "number": 17,
+        "keywords": {
+          "upright": ["umut", "iyimserlik", "iyileşme", "ilham"],
+          "reversed": ["umutsuzluk", "inanç eksikliği", "hayal kırıklığı"]
+        },
+        "element": "Hava",
+        "astrology": "Kova",
+        "image_url": "cards/17.jpg"
+      },
+      {
+        "id": 18,
+        "name": "The Moon",
+        "tr_name": "Ay",
+        "arcana": "major",
+        "suit": null,
+        "number": 18,
+        "keywords": {
+          "upright": ["sezgi", "rüyalar", "bilinçaltı", "karmaşa"],
+          "reversed": ["kafa karışıklığı", "korku", "yanlış sezgi"]
+        },
+        "element": "Su",
+        "astrology": "Balık",
+        "image_url": "cards/18.jpg"
+      },
+      {
+        "id": 19,
+        "name": "The Sun",
+        "tr_name": "Güneş",
+        "arcana": "major",
+        "suit": null,
+        "number": 19,
+        "keywords": {
+          "upright": ["mutluluk", "başarı", "neşe", "enerji"],
+          "reversed": ["geçici mutluluk", "gölgeler", "aşırı iyimserlik"]
+        },
+        "element": "Ateş",
+        "astrology": "Güneş",
+        "image_url": "cards/19.jpg"
+      },
+      {
+        "id": 20,
+        "name": "Judgement",
+        "tr_name": "Yargı",
+        "arcana": "major",
+        "suit": null,
+        "number": 20,
+        "keywords": {
+          "upright": ["uyanış", "kefaret", "karar", "affetme"],
+          "reversed": ["kendini eleştirme", "inanç eksikliği", "pişmanlık"]
+        },
+        "element": "Su",
+        "astrology": "Plüton",
+        "image_url": "cards/20.jpg"
+      },
+      {
+        "id": 21,
+        "name": "The World",
+        "tr_name": "Dünya",
+        "arcana": "major",
+        "suit": null,
+        "number": 21,
+        "keywords": {
+          "upright": ["tamamlanma", "bütünleşme", "başarı", "seyahat"],
+          "reversed": [
+            "tamamlanmamış",
+            "gecikme",
+            "engel",
+            "başarısızlık korkusu"
+          ]
+        },
+        "element": "Toprak",
+        "astrology": "Satürn",
+        "image_url": "cards/21.jpg"
+      }
+    ],
+    "minor_arcana": {
+      "cups": [
+        {
+          "id": 22,
+          "name": "Ace of Cups",
+          "tr_name": "Kupa Ası",
+          "arcana": "minor",
+          "suit": "cups",
+          "number": 1,
+          "keywords": {
+            "upright": ["duygular", "sezgi", "aşk", "yeni ilişkiler"],
+            "reversed": ["duygusal dengesizlik", "kayıp", "kalp kırıklığı"]
+          },
+          "element": "Su",
+          "image_url": "cards/22.jpg"
+        },
+        {
+          "id": 23,
+          "name": "Two of Cups",
+          "tr_name": "Kupa İkili",
+          "arcana": "minor",
+          "suit": "cups",
+          "number": 2,
+          "keywords": {
+            "upright": ["birlik", "ortaklık", "uyum", "karşılıklı çekim"],
+            "reversed": ["dengesizlik", "uyumsuzluk", "kopukluk"]
+          },
+          "element": "Su",
+          "image_url": "cards/23.jpg"
+        },
+        {
+          "id": 24,
+          "name": "Three of Cups",
+          "tr_name": "Kupa Üçlü",
+          "arcana": "minor",
+          "suit": "cups",
+          "number": 3,
+          "keywords": {
+            "upright": ["kutlama", "dostluk", "topluluk", "neşe"],
+            "reversed": ["aşırı eğlence", "gossip", "üçlü ilişki"]
+          },
+          "element": "Su",
+          "image_url": "cards/24.jpg"
+        },
+        {
+          "id": 25,
+          "name": "Four of Cups",
+          "tr_name": "Kupa Dörtlü",
+          "arcana": "minor",
+          "suit": "cups",
+          "number": 4,
+          "keywords": {
+            "upright": ["apati", "kendini inceleme", "kaçırılan fırsatlar"],
+            "reversed": ["depresyon", "umursamazlık", "geri çekilme"]
+          },
+          "element": "Su",
+          "image_url": "cards/25.jpg"
+        },
+        {
+          "id": 26,
+          "name": "Five of Cups",
+          "tr_name": "Kupa Beşli",
+          "arcana": "minor",
+          "suit": "cups",
+          "number": 5,
+          "keywords": {
+            "upright": ["kayıp", "keder", "pişmanlık", "hayal kırıklığı"],
+            "reversed": ["kabul", "iyileşme", "yeniden toparlanma"]
+          },
+          "element": "Su",
+          "image_url": "cards/26.jpg"
+        },
+        {
+          "id": 27,
+          "name": "Six of Cups",
+          "tr_name": "Kupa Altılı",
+          "arcana": "minor",
+          "suit": "cups",
+          "number": 6,
+          "keywords": {
+            "upright": ["nostalji", "geçmiş", "masumiyet", "çocukluk"],
+            "reversed": ["geçmişe takılıp kalma", "kaçış", "olgunlaşmama"]
+          },
+          "element": "Su",
+          "image_url": "cards/27.jpg"
+        },
+        {
+          "id": 28,
+          "name": "Seven of Cups",
+          "tr_name": "Kupa Yedili",
+          "arcana": "minor",
+          "suit": "cups",
+          "number": 7,
+          "keywords": {
+            "upright": ["seçenekler", "hayaller", "hayal kurma", "kararsızlık"],
+            "reversed": ["kafa karışıklığı", "kaçış", "yanlış seçim"]
+          },
+          "element": "Su",
+          "image_url": "cards/28.jpg"
+        },
+        {
+          "id": 29,
+          "name": "Eight of Cups",
+          "tr_name": "Kupa Sekizli",
+          "arcana": "minor",
+          "suit": "cups",
+          "number": 8,
+          "keywords": {
+            "upright": ["gelişim", "hareket", "ayrılık", "arayış"],
+            "reversed": ["korku", "kaçış", "kendini kandırma"]
+          },
+          "element": "Su",
+          "image_url": "cards/29.jpg"
+        },
+        {
+          "id": 30,
+          "name": "Nine of Cups",
+          "tr_name": "Kupa Dokuzlu",
+          "arcana": "minor",
+          "suit": "cups",
+          "number": 9,
+          "keywords": {
+            "upright": ["doyum", "arzuların gerçekleşmesi", "memnuniyet"],
+            "reversed": ["aşırı doyum", "kibir", "mutsuzluk"]
+          },
+          "element": "Su",
+          "image_url": "cards/30.jpg"
+        },
+        {
+          "id": 31,
+          "name": "Ten of Cups",
+          "tr_name": "Kupa Onlu",
+          "arcana": "minor",
+          "suit": "cups",
+          "number": 10,
+          "keywords": {
+            "upright": ["mutluluk", "aile", "uyum", "huzur"],
+            "reversed": ["aile sorunları", "kırgınlık", "uyumsuzluk"]
+          },
+          "element": "Su",
+          "image_url": "cards/31.jpg"
+        },
+        {
+          "id": 32,
+          "name": "Page of Cups",
+          "tr_name": "Kupa Valesi",
+          "arcana": "minor",
+          "suit": "cups",
+          "number": 11,
+          "keywords": {
+            "upright": ["duygusal mesaj", "yaratıcılık", "duyarlılık"],
+            "reversed": ["duygusal dengesizlik", "hayal kırıklığı"]
+          },
+          "element": "Su",
+          "image_url": "cards/32.jpg"
+        },
+        {
+          "id": 33,
+          "name": "Knight of Cups",
+          "tr_name": "Kupa Şövalyesi",
+          "arcana": "minor",
+          "suit": "cups",
+          "number": 12,
+          "keywords": {
+            "upright": ["romantizm", "hayalperestlik", "cazibe", "idealler"],
+            "reversed": ["duygusal dengesizlik", "aldatma", "kırılganlık"]
+          },
+          "element": "Su",
+          "image_url": "cards/33.jpg"
+        },
+        {
+          "id": 34,
+          "name": "Queen of Cups",
+          "tr_name": "Kupa Kraliçesi",
+          "arcana": "minor",
+          "suit": "cups",
+          "number": 13,
+          "keywords": {
+            "upright": ["şefkat", "duygusal denge", "sezgi", "besleyicilik"],
+            "reversed": ["duygusal baskı", "bağımlılık", "güvensizlik"]
+          },
+          "element": "Su",
+          "image_url": "cards/34.jpg"
+        },
+        {
+          "id": 35,
+          "name": "King of Cups",
+          "tr_name": "Kupa Kralı",
+          "arcana": "minor",
+          "suit": "cups",
+          "number": 14,
+          "keywords": {
+            "upright": ["duygusal kontrol", "dengeli duygular", "diplomasi"],
+            "reversed": ["duygusal manipülasyon", "baskı", "soğukluk"]
+          },
+          "element": "Su",
+          "image_url": "cards/35.jpg"
+        }
+      ],
+      "swords": [
+        {
+          "id": 36,
+          "name": "Ace of Swords",
+          "tr_name": "Kılıç Ası",
+          "arcana": "minor",
+          "suit": "swords",
+          "number": 1,
+          "keywords": {
+            "upright": ["zihinsel keskinlik", "zafer", "yeni fikir", "adalet"],
+            "reversed": [
+              "kafa karışıklığı",
+              "kötü niyet",
+              "güç kötüye kullanımı"
+            ]
+          },
+          "element": "Hava",
+          "image_url": "cards/36.jpg"
+        },
+        {
+          "id": 37,
+          "name": "Two of Swords",
+          "tr_name": "Kılıç İkili",
+          "arcana": "minor",
+          "suit": "swords",
+          "number": 2,
+          "keywords": {
+            "upright": ["çıkmaz", "kararsızlık", "denge", "kaçınma"],
+            "reversed": [
+              "kararsızlık",
+              "kafa karışıklığı",
+              "gerçeklerle yüzleşme"
+            ]
+          },
+          "element": "Hava",
+          "image_url": "cards/37.jpg"
+        },
+        {
+          "id": 38,
+          "name": "Three of Swords",
+          "tr_name": "Kılıç Üçlü",
+          "arcana": "minor",
+          "suit": "swords",
+          "number": 3,
+          "keywords": {
+            "upright": ["kalp kırıklığı", "keder", "hüzün", "kayıp"],
+            "reversed": ["iyileşme", "affetme", "kederden kurtulma"]
+          },
+          "element": "Hava",
+          "image_url": "cards/38.jpg"
+        },
+        {
+          "id": 39,
+          "name": "Four of Swords",
+          "tr_name": "Kılıç Dörtlü",
+          "arcana": "minor",
+          "suit": "swords",
+          "number": 4,
+          "keywords": {
+            "upright": ["dinlenme", "tefekkür", "iyileşme", "geri çekilme"],
+            "reversed": ["tükenmişlik", "stres", "huzursuzluk"]
+          },
+          "element": "Hava",
+          "image_url": "cards/39.jpg"
+        },
+        {
+          "id": 40,
+          "name": "Five of Swords",
+          "tr_name": "Kılıç Beşli",
+          "arcana": "minor",
+          "suit": "swords",
+          "number": 5,
+          "keywords": {
+            "upright": ["çatışma", "kayıp", "hüzün", "hile"],
+            "reversed": ["uzlaşma", "pişmanlık", "diyalog", "geri adım"]
+          },
+          "element": "Hava",
+          "image_url": "cards/40.jpg"
+        },
+        {
+          "id": 41,
+          "name": "Six of Swords",
+          "tr_name": "Kılıç Altılı",
+          "arcana": "minor",
+          "suit": "swords",
+          "number": 6,
+          "keywords": {
+            "upright": [
+              "geçiş",
+              "ilerleme",
+              "iyileşme",
+              "daha iyiye doğru değişim"
+            ],
+            "reversed": ["geçmişe takılıp kalma", "direnç", "gecikme"]
+          },
+          "element": "Hava",
+          "image_url": "cards/41.jpg"
+        },
+        {
+          "id": 42,
+          "name": "Seven of Swords",
+          "tr_name": "Kılıç Yedili",
+          "arcana": "minor",
+          "suit": "swords",
+          "number": 7,
+          "keywords": {
+            "upright": ["hile", "kaçamak", "sır", "yalan"],
+            "reversed": ["açıklık", "dürüstlük", "yakalanma"]
+          },
+          "element": "Hava",
+          "image_url": "cards/42.jpg"
+        },
+        {
+          "id": 43,
+          "name": "Eight of Swords",
+          "tr_name": "Kılıç Sekizli",
+          "arcana": "minor",
+          "suit": "swords",
+          "number": 8,
+          "keywords": {
+            "upright": [
+              "kısıtlılık",
+              "kurban psikolojisi",
+              "korku",
+              "hapsetme"
+            ],
+            "reversed": ["özgürleşme", "kurtuluş", "yeni bakış açısı"]
+          },
+          "element": "Hava",
+          "image_url": "cards/43.jpg"
+        },
+        {
+          "id": 44,
+          "name": "Nine of Swords",
+          "tr_name": "Kılıç Dokuzlu",
+          "arcana": "minor",
+          "suit": "swords",
+          "number": 9,
+          "keywords": {
+            "upright": ["kaygı", "korku", "kabus", "suçluluk"],
+            "reversed": ["umut", "iyileşme", "kaygıyı aşma"]
+          },
+          "element": "Hava",
+          "image_url": "cards/44.jpg"
+        },
+        {
+          "id": 45,
+          "name": "Ten of Swords",
+          "tr_name": "Kılıç Onlu",
+          "arcana": "minor",
+          "suit": "swords",
+          "number": 10,
+          "keywords": {
+            "upright": ["son", "kayıp", "acı", "ihanet"],
+            "reversed": ["iyileşme", "yenilenme", "yeni başlangıç"]
+          },
+          "element": "Hava",
+          "image_url": "cards/45.jpg"
+        },
+        {
+          "id": 46,
+          "name": "Page of Swords",
+          "tr_name": "Kılıç Valesi",
+          "arcana": "minor",
+          "suit": "swords",
+          "number": 11,
+          "keywords": {
+            "upright": ["merak", "öğrenme", "iletişim", "gözcülük"],
+            "reversed": ["dikkatsizlik", "gossip", "aldatma"]
+          },
+          "element": "Hava",
+          "image_url": "cards/46.jpg"
+        },
+        {
+          "id": 47,
+          "name": "Knight of Swords",
+          "tr_name": "Kılıç Şövalyesi",
+          "arcana": "minor",
+          "suit": "swords",
+          "number": 12,
+          "keywords": {
+            "upright": [
+              "hızlı hareket",
+              "dürüstlük",
+              "kararlılık",
+              "saldırganlık"
+            ],
+            "reversed": ["düşüncesizlik", "acelecilik", "kaba kuvvet"]
+          },
+          "element": "Hava",
+          "image_url": "cards/47.jpg"
+        },
+        {
+          "id": 48,
+          "name": "Queen of Swords",
+          "tr_name": "Kılıç Kraliçesi",
+          "arcana": "minor",
+          "suit": "swords",
+          "number": 13,
+          "keywords": {
+            "upright": ["dürüstlük", "bağımsızlık", "keskin zeka", "adalet"],
+            "reversed": ["acımasızlık", "soğukluk", "kırıcılık"]
+          },
+          "element": "Hava",
+          "image_url": "cards/48.jpg"
+        },
+        {
+          "id": 49,
+          "name": "King of Swords",
+          "tr_name": "Kılıç Kralı",
+          "arcana": "minor",
+          "suit": "swords",
+          "number": 14,
+          "keywords": {
+            "upright": ["otorite", "mantık", "adalet", "liderlik"],
+            "reversed": ["manipülasyon", "acımasızlık", "soğukluk"]
+          },
+          "element": "Hava",
+          "image_url": "cards/49.jpg"
+        }
+      ],
+      "wands": [
+        {
+          "id": 50,
+          "name": "Ace of Wands",
+          "tr_name": "Asa Ası",
+          "arcana": "minor",
+          "suit": "wands",
+          "number": 1,
+          "keywords": {
+            "upright": ["yaratıcılık", "ilham", "enerji", "yeni başlangıçlar"],
+            "reversed": ["güçsüzlük", "fırsat kaçırma", "gecikme"]
+          },
+          "element": "Ateş",
+          "image_url": "cards/50.jpg"
+        },
+        {
+          "id": 51,
+          "name": "Two of Wands",
+          "tr_name": "Asa İkili",
+          "arcana": "minor",
+          "suit": "wands",
+          "number": 2,
+          "keywords": {
+            "upright": ["planlama", "kararlılık", "keşif", "gelecek"],
+            "reversed": ["kötü plan", "kararsızlık", "korku"]
+          },
+          "element": "Ateş",
+          "image_url": "cards/51.jpg"
+        },
+        {
+          "id": 52,
+          "name": "Three of Wands",
+          "tr_name": "Asa Üçlü",
+          "arcana": "minor",
+          "suit": "wands",
+          "number": 3,
+          "keywords": {
+            "upright": ["ilerleme", "işbirliği", "keşif", "genişleme"],
+            "reversed": ["engel", "gecikme", "sınırlı vizyon"]
+          },
+          "element": "Ateş",
+          "image_url": "cards/52.jpg"
+        },
+        {
+          "id": 53,
+          "name": "Four of Wands",
+          "tr_name": "Asa Dörtlü",
+          "arcana": "minor",
+          "suit": "wands",
+          "number": 4,
+          "keywords": {
+            "upright": ["kutlama", "topluluk", "ev", "başarı"],
+            "reversed": ["dengesizlik", "çatışma", "gecikmiş kutlama"]
+          },
+          "element": "Ateş",
+          "image_url": "cards/53.jpg"
+        },
+        {
+          "id": 54,
+          "name": "Five of Wands",
+          "tr_name": "Asa Beşli",
+          "arcana": "minor",
+          "suit": "wands",
+          "number": 5,
+          "keywords": {
+            "upright": ["çatışma", "rekabet", "anlaşmazlık", "sürtüşme"],
+            "reversed": ["ateşkes", "çözüm", "uzlaşma"]
+          },
+          "element": "Ateş",
+          "image_url": "cards/54.jpg"
+        },
+        {
+          "id": 55,
+          "name": "Six of Wands",
+          "tr_name": "Asa Altılı",
+          "arcana": "minor",
+          "suit": "wands",
+          "number": 6,
+          "keywords": {
+            "upright": ["zafer", "başarı", "tanınma", "ilerleme"],
+            "reversed": ["gurur", "aşırı özgüven", "düşüş"]
+          },
+          "element": "Ateş",
+          "image_url": "cards/55.jpg"
+        },
+        {
+          "id": 56,
+          "name": "Seven of Wands",
+          "tr_name": "Asa Yedili",
+          "arcana": "minor",
+          "suit": "wands",
+          "number": 7,
+          "keywords": {
+            "upright": ["savunma", "direnç", "kararlılık", "mücadele"],
+            "reversed": ["tükenmişlik", "yenilgi", "vazgeçme"]
+          },
+          "element": "Ateş",
+          "image_url": "cards/56.jpg"
+        },
+        {
+          "id": 57,
+          "name": "Eight of Wands",
+          "tr_name": "Asa Sekizli",
+          "arcana": "minor",
+          "suit": "wands",
+          "number": 8,
+          "keywords": {
+            "upright": ["hız", "hareket", "ilerleme", "ani değişim"],
+            "reversed": ["gecikme", "karışıklık", "direnç"]
+          },
+          "element": "Ateş",
+          "image_url": "cards/57.jpg"
+        },
+        {
+          "id": 58,
+          "name": "Nine of Wands",
+          "tr_name": "Asa Dokuzlu",
+          "arcana": "minor",
+          "suit": "wands",
+          "number": 9,
+          "keywords": {
+            "upright": ["direnç", "dayanıklılık", "savunma", "son direniş"],
+            "reversed": ["tükenmişlik", "yıpranma", "çöküş"]
+          },
+          "element": "Ateş",
+          "image_url": "cards/58.jpg"
+        },
+        {
+          "id": 59,
+          "name": "Ten of Wands",
+          "tr_name": "Asa Onlu",
+          "arcana": "minor",
+          "suit": "wands",
+          "number": 10,
+          "keywords": {
+            "upright": ["yük", "aşırı sorumluluk", "zorluk", "baskı"],
+            "reversed": ["delege etme", "rahatlama", "yükü bırakma"]
+          },
+          "element": "Ateş",
+          "image_url": "cards/59.jpg"
+        },
+        {
+          "id": 60,
+          "name": "Page of Wands",
+          "tr_name": "Asa Valesi",
+          "arcana": "minor",
+          "suit": "wands",
+          "number": 11,
+          "keywords": {
+            "upright": ["enerji", "heyecan", "keşif", "haber"],
+            "reversed": ["kararsızlık", "gecikme", "olgunlaşmamış"]
+          },
+          "element": "Ateş",
+          "image_url": "cards/60.jpg"
+        },
+        {
+          "id": 61,
+          "name": "Knight of Wands",
+          "tr_name": "Asa Şövalyesi",
+          "arcana": "minor",
+          "suit": "wands",
+          "number": 12,
+          "keywords": {
+            "upright": ["hareket", "macera", "tutku", "hız"],
+            "reversed": ["düşmanlık", "düşüncesizlik", "sabırsızlık"]
+          },
+          "element": "Ateş",
+          "image_url": "cards/61.jpg"
+        },
+        {
+          "id": 62,
+          "name": "Queen of Wands",
+          "tr_name": "Asa Kraliçesi",
+          "arcana": "minor",
+          "suit": "wands",
+          "number": 13,
+          "keywords": {
+            "upright": ["güven", "sıcaklık", "cazibe", "cesaret"],
+            "reversed": ["kibir", "dominantlık", "kıskançlık"]
+          },
+          "element": "Ateş",
+          "image_url": "cards/62.jpg"
+        },
+        {
+          "id": 63,
+          "name": "King of Wands",
+          "tr_name": "Asa Kralı",
+          "arcana": "minor",
+          "suit": "wands",
+          "number": 14,
+          "keywords": {
+            "upright": ["liderlik", "vizyon", "kararlılık", "ilham"],
+            "reversed": ["dominantlık", "baskı", "kibir"]
+          },
+          "element": "Ateş",
+          "image_url": "cards/63.jpg"
+        }
+      ],
+      "pentacles": [
+        {
+          "id": 64,
+          "name": "Ace of Pentacles",
+          "tr_name": "Para Ası",
+          "arcana": "minor",
+          "suit": "pentacles",
+          "number": 1,
+          "keywords": {
+            "upright": [
+              "yeni fırsat",
+              "maddi kazanç",
+              "güvenlik",
+              "potansiyel"
+            ],
+            "reversed": ["fırsat kaçırma", "finansal kayıp", "kötü yatırım"]
+          },
+          "element": "Toprak",
+          "image_url": "cards/64.jpg"
+        },
+        {
+          "id": 65,
+          "name": "Two of Pentacles",
+          "tr_name": "Para İkili",
+          "arcana": "minor",
+          "suit": "pentacles",
+          "number": 2,
+          "keywords": {
+            "upright": ["denge", "uyum", "uyum sağlama", "esneklik"],
+            "reversed": ["dengesizlik", "organize olamama", "aşırı yük"]
+          },
+          "element": "Toprak",
+          "image_url": "cards/65.jpg"
+        },
+        {
+          "id": 66,
+          "name": "Three of Pentacles",
+          "tr_name": "Para Üçlü",
+          "arcana": "minor",
+          "suit": "pentacles",
+          "number": 3,
+          "keywords": {
+            "upright": ["işbirliği", "takım çalışması", "beceri", "ustalık"],
+            "reversed": ["zayıf planlama", "koordinasyon eksikliği"]
+          },
+          "element": "Toprak",
+          "image_url": "cards/66.jpg"
+        },
+        {
+          "id": 67,
+          "name": "Four of Pentacles",
+          "tr_name": "Para Dörtlü",
+          "arcana": "minor",
+          "suit": "pentacles",
+          "number": 4,
+          "keywords": {
+            "upright": ["kontrol", "güvenlik", "tutumluluk", "muhafazakarlık"],
+            "reversed": ["cimrilik", "açgözlülük", "materyalizm"]
+          },
+          "element": "Toprak",
+          "image_url": "cards/67.jpg"
+        },
+        {
+          "id": 68,
+          "name": "Five of Pentacles",
+          "tr_name": "Para Beşli",
+          "arcana": "minor",
+          "suit": "pentacles",
+          "number": 5,
+          "keywords": {
+            "upright": ["kayıp", "yoksulluk", "izolasyon", "hastalık"],
+            "reversed": ["iyileşme", "yardım kabul etme", "yeniden birleşme"]
+          },
+          "element": "Toprak",
+          "image_url": "cards/68.jpg"
+        },
+        {
+          "id": 69,
+          "name": "Six of Pentacles",
+          "tr_name": "Para Altılı",
+          "arcana": "minor",
+          "suit": "pentacles",
+          "number": 6,
+          "keywords": {
+            "upright": ["cömertlik", "paylaşım", "hediye", "dengeli kaynak"],
+            "reversed": ["dengesiz güç", "zorunluluk", "cimrilik"]
+          },
+          "element": "Toprak",
+          "image_url": "cards/69.jpg"
+        },
+        {
+          "id": 70,
+          "name": "Seven of Pentacles",
+          "tr_name": "Para Yedili",
+          "arcana": "minor",
+          "suit": "pentacles",
+          "number": 7,
+          "keywords": {
+            "upright": ["sabır", "planlama", "emek", "beklenti"],
+            "reversed": ["sabırsızlık", "kötü yatırım", "düşük verim"]
+          },
+          "element": "Toprak",
+          "image_url": "cards/70.jpg"
+        },
+        {
+          "id": 71,
+          "name": "Eight of Pentacles",
+          "tr_name": "Para Sekizli",
+          "arcana": "minor",
+          "suit": "pentacles",
+          "number": 8,
+          "keywords": {
+            "upright": ["beceri", "sanat", "titizlik", "çalışma"],
+            "reversed": ["beceri eksikliği", "tembellik", "düşük kalite"]
+          },
+          "element": "Toprak",
+          "image_url": "cards/71.jpg"
+        },
+        {
+          "id": 72,
+          "name": "Nine of Pentacles",
+          "tr_name": "Para Dokuzlu",
+          "arcana": "minor",
+          "suit": "pentacles",
+          "number": 9,
+          "keywords": {
+            "upright": [
+              "bolluk",
+              "rahatlık",
+              "kendi kendine yeterlilik",
+              "lüks"
+            ],
+            "reversed": ["finansal kayıp", "bağımlılık", "güvensizlik"]
+          },
+          "element": "Toprak",
+          "image_url": "cards/72.jpg"
+        },
+        {
+          "id": 73,
+          "name": "Ten of Pentacles",
+          "tr_name": "Para Onlu",
+          "arcana": "minor",
+          "suit": "pentacles",
+          "number": 10,
+          "keywords": {
+            "upright": ["zenginlik", "aile", "miras", "güvenlik"],
+            "reversed": ["finansal kayıp", "aile sorunları", "güvensizlik"]
+          },
+          "element": "Toprak",
+          "image_url": "cards/73.jpg"
+        },
+        {
+          "id": 74,
+          "name": "Page of Pentacles",
+          "tr_name": "Para Valesi",
+          "arcana": "minor",
+          "suit": "pentacles",
+          "number": 11,
+          "keywords": {
+            "upright": ["öğrenme", "pratiklik", "çalışkanlık", "yeni fırsat"],
+            "reversed": ["dikkatsizlik", "tembellik", "fırsat kaçırma"]
+          },
+          "element": "Toprak",
+          "image_url": "cards/74.jpg"
+        },
+        {
+          "id": 75,
+          "name": "Knight of Pentacles",
+          "tr_name": "Para Şövalyesi",
+          "arcana": "minor",
+          "suit": "pentacles",
+          "number": 12,
+          "keywords": {
+            "upright": [
+              "güvenilirlik",
+              "disiplin",
+              "sorumluluk",
+              "çalışkanlık"
+            ],
+            "reversed": ["sıkıcılık", "inatçılık", "tembellik"]
+          },
+          "element": "Toprak",
+          "image_url": "cards/75.jpg"
+        },
+        {
+          "id": 76,
+          "name": "Queen of Pentacles",
+          "tr_name": "Para Kraliçesi",
+          "arcana": "minor",
+          "suit": "pentacles",
+          "number": 13,
+          "keywords": {
+            "upright": ["pratiklik", "besleyicilik", "cömertlik", "ev"],
+            "reversed": ["materyalizm", "ihmal", "kaynak israfı"]
+          },
+          "element": "Toprak",
+          "image_url": "cards/76.jpg"
+        },
+        {
+          "id": 77,
+          "name": "King of Pentacles",
+          "tr_name": "Para Kralı",
+          "arcana": "minor",
+          "suit": "pentacles",
+          "number": 14,
+          "keywords": {
+            "upright": [
+              "güvenlik",
+              "stabilite",
+              "finansal başarı",
+              "cömertlik"
+            ],
+            "reversed": ["cimrilik", "materyalizm", "tutuculuk"]
+          },
+          "element": "Toprak",
+          "image_url": "cards/77.jpg"
+        }
+      ]
+    }
+  }
+}
